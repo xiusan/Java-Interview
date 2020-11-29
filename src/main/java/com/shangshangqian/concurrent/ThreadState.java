@@ -1,7 +1,5 @@
 package com.shangshangqian.concurrent;
 
-import com.shangshangqian.classloader.Main;
-
 /**
  * Function: 线程状态测试
  *

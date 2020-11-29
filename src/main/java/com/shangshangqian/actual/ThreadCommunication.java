@@ -4,7 +4,6 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import java.io.IOException;
-import java.io.PipedInputStream;
 import java.io.PipedReader;
 import java.io.PipedWriter;
 import java.util.concurrent.*;

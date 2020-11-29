@@ -1,11 +1,9 @@
 package com.shangshangqian.spring.service;
 
-import com.shangshangqian.spring.SpringLifeCycle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.DisposableBean;
 import org.springframework.beans.factory.InitializingBean;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
 
 /**

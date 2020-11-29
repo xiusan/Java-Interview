@@ -1,6 +1,5 @@
 package com.shangshangqian.spring.aware;
 
-import com.shangshangqian.Application;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeansException;

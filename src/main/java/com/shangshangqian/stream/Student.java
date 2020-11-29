@@ -1,16 +1,12 @@
-package com.crossoverjie.stream;
-
-import java.util.List;
+package com.shangshangqian.stream;
 
 /**
  * Created by xiaojinlu1990@163.com on 2020/11/29 0029.
  */
-
-public class Person {
+public class Student {
 
     private String name;
     private Integer age;
-    private List<Student> students;
 
     public String getName() {
         return name;
@@ -26,13 +22,5 @@ public class Person {
 
     public void setAge(Integer age) {
         this.age = age;
-    }
-
-    public List<Student> getStudents() {
-        return students;
-    }
-
-    public void setStudents(List<Student> students) {
-        this.students = students;
     }
 }

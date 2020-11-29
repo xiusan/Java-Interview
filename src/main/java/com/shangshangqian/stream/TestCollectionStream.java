@@ -1,4 +1,4 @@
-package com.crossoverjie.stream;
+package com.shangshangqian.stream;
 
 import com.google.common.collect.Lists;
 
@@ -16,7 +16,7 @@ public class TestCollectionStream {
     //forEachTest
     public static void forEachTest() {
        List list = getList();
-        list.stream().forEach(System.out::print);
+        list.stream().filter(el ->el.equals(null)).forEach(System.out::println);
 
 
     }

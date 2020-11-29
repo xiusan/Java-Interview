@@ -1,10 +1,6 @@
 package com.shangshangqian.actual;
 
-import com.alibaba.fastjson.JSON;
-import com.sun.org.apache.bcel.internal.generic.LUSHR;
 import org.junit.Test;
-
-import static org.junit.Assert.*;
 
 public class LRUMapTest {
 

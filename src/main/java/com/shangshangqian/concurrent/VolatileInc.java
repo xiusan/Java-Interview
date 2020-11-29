@@ -1,7 +1,5 @@
 package com.shangshangqian.concurrent;
 
-import java.util.concurrent.atomic.AtomicInteger;
-
 /**
  * Function:
  *

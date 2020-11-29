@@ -1,6 +1,5 @@
 package com.shangshangqian.spring.annotation;
 
-import com.shangshangqian.spring.SpringLifeCycle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;

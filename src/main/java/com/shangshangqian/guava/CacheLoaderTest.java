@@ -3,7 +3,6 @@ package com.shangshangqian.guava;
 import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
 import com.google.common.cache.LoadingCache;
-import com.google.common.collect.Interner;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
