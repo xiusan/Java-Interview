@@ -1,9 +1,9 @@
-package com.crossoverjie.classloader;
+package com.shangshangqian.classloader;
 
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 05/03/2018 23:11
  * @since JDK 1.8
  */

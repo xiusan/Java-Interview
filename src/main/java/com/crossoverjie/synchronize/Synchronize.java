@@ -1,9 +1,9 @@
-package com.crossoverjie.synchronize;
+package com.shangshangqian.synchronize;
 
 /**
  * Function:Synchronize 演示
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 02/01/2018 13:27
  * @since JDK 1.8
  */

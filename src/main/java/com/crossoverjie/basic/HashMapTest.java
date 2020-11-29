@@ -1,4 +1,4 @@
-package com.crossoverjie.basic;
+package com.shangshangqian.basic;
 
 import java.security.Key;
 import java.util.HashMap;
@@ -8,7 +8,7 @@ import java.util.Map;
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 05/05/2018 12:42
  * @since JDK 1.8
  */

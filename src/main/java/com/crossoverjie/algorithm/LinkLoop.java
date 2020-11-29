@@ -1,10 +1,10 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 /**
  * Function:是否是环链表，采用快慢指针，一个走的快些一个走的慢些 如果最终相遇了就说明是环
  * 就相当于在一个环形跑道里跑步，速度不一样的最终一定会相遇。
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 04/01/2018 11:33
  * @since JDK 1.8
  */

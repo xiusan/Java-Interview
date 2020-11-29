@@ -1,4 +1,4 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 /**
  * 链表排序, 建议使用归并排序

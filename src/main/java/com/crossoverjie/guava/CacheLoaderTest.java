@@ -1,4 +1,4 @@
-package com.crossoverjie.guava;
+package com.shangshangqian.guava;
 
 import com.google.common.cache.CacheBuilder;
 import com.google.common.cache.CacheLoader;
@@ -15,8 +15,8 @@ import java.util.concurrent.atomic.AtomicLong;
 /**
  * Function:
  *
- * @author crossoverJie
- *         Date: 2018/6/12 15:33
+ * @author shangshangqian
+ *         Date: 2020/6/12 15:33
  * @since JDK 1.8
  */
 public class CacheLoaderTest {

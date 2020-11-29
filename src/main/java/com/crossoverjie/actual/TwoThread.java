@@ -1,4 +1,4 @@
-package com.crossoverjie.actual;
+package com.shangshangqian.actual;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -8,7 +8,7 @@ import java.util.concurrent.locks.ReentrantLock;
  *
  * lock 版
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 11/02/2018 10:04
  * @since JDK 1.8
  */

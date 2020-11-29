@@ -1,11 +1,11 @@
-package com.crossoverjie.concurrent;
+package com.shangshangqian.concurrent;
 
-import com.crossoverjie.classloader.Main;
+import com.shangshangqian.classloader.Main;
 
 /**
  * Function: 线程状态测试
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 06/03/2018 22:56
  * @since JDK 1.8
  */

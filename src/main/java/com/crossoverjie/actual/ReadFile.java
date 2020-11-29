@@ -1,4 +1,4 @@
-package com.crossoverjie.actual;
+package com.shangshangqian.actual;
 
 import com.google.common.io.Files;
 import org.slf4j.Logger;
@@ -12,7 +12,7 @@ import java.util.*;
 /**
  * Function:读取文件
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 05/01/2018 14:11
  * @since JDK 1.8
  */

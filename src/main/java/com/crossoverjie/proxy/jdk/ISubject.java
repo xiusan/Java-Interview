@@ -1,9 +1,9 @@
-package com.crossoverjie.proxy.jdk;
+package com.shangshangqian.proxy.jdk;
 
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 23/12/2017 22:37
  * @since JDK 1.8
  */

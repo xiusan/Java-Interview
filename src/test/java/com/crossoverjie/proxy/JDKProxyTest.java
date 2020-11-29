@@ -1,8 +1,8 @@
-package com.crossoverjie.proxy;
+package com.shangshangqian.proxy;
 
-import com.crossoverjie.proxy.jdk.CustomizeHandle;
-import com.crossoverjie.proxy.jdk.ISubject;
-import com.crossoverjie.proxy.jdk.impl.ISubjectImpl;
+import com.shangshangqian.proxy.jdk.CustomizeHandle;
+import com.shangshangqian.proxy.jdk.ISubject;
+import com.shangshangqian.proxy.jdk.impl.ISubjectImpl;
 import org.junit.Test;
 import sun.misc.ProxyGenerator;
 
@@ -14,7 +14,7 @@ import java.lang.reflect.Proxy;
 /**
  * Function: JDK 代理单测
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 23/12/2017 22:40
  * @since JDK 1.8
  */

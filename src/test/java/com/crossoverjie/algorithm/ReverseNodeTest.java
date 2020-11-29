@@ -1,7 +1,7 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 import org.junit.Test;
-import static com.crossoverjie.algorithm.ReverseNode.Node;
+import static com.shangshangqian.algorithm.ReverseNode.Node;
 
 public class ReverseNodeTest {
 

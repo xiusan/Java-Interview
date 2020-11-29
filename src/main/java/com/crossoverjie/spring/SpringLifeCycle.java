@@ -1,6 +1,6 @@
-package com.crossoverjie.spring;
+package com.shangshangqian.spring;
 
-import com.crossoverjie.Application;
+import com.shangshangqian.Application;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeansException;
@@ -10,7 +10,7 @@ import org.springframework.context.ApplicationContextAware;
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 20/03/2018 18:23
  * @since JDK 1.8
  */

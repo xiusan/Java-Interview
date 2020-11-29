@@ -1,11 +1,11 @@
-package com.crossoverjie.basic;
+package com.shangshangqian.basic;
 
 import java.lang.reflect.Field;
 
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 08/03/2018 13:56
  * @since JDK 1.8
  */

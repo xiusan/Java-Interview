@@ -1,11 +1,11 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 /**
  * Function: 合并两个排好序的链表
  *
  * 每次比较两个链表的头结点，将较小结点放到新的链表，最后将新链表指向剩余的链表
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 07/12/2017 13:58
  * @since JDK 1.8
  */

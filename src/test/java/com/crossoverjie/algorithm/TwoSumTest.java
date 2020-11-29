@@ -1,4 +1,4 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 import com.alibaba.fastjson.JSON;
 import org.junit.Test;

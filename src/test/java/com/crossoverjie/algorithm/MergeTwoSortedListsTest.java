@@ -1,6 +1,6 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
-import com.crossoverjie.algorithm.MergeTwoSortedLists.ListNode;
+import com.shangshangqian.algorithm.MergeTwoSortedLists.ListNode;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

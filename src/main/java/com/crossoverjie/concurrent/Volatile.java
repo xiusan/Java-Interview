@@ -1,11 +1,11 @@
-package com.crossoverjie.concurrent;
+package com.shangshangqian.concurrent;
 
 import java.util.concurrent.TimeUnit;
 
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 09/03/2018 00:09
  * @since JDK 1.8
  */

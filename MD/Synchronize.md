@@ -34,8 +34,8 @@
 使用 `javap -c Synchronize` 可以查看编译之后的具体信息。
 
 ```
-public class com.crossoverjie.synchronize.Synchronize {
-  public com.crossoverjie.synchronize.Synchronize();
+public class com.shangshangqian.synchronize.Synchronize {
+  public com.shangshangqian.synchronize.Synchronize();
     Code:
        0: aload_0
        1: invokespecial #1                  // Method java/lang/Object."<init>":()V
@@ -43,7 +43,7 @@ public class com.crossoverjie.synchronize.Synchronize {
 
   public static void main(java.lang.String[]);
     Code:
-       0: ldc           #2                  // class com/crossoverjie/synchronize/Synchronize
+       0: ldc           #2                  // class com/shangshangqian/synchronize/Synchronize
        2: dup
        3: astore_1
        **4: monitorenter**

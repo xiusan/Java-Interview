@@ -1,4 +1,4 @@
-package com.crossoverjie.oom.heap;
+package com.shangshangqian.oom.heap;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Function:堆内存溢出
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 29/12/2017 18:22
  * @since JDK 1.8
  */

@@ -1,6 +1,6 @@
-package com.crossoverjie.spring.annotation;
+package com.shangshangqian.spring.annotation;
 
-import com.crossoverjie.spring.SpringLifeCycle;
+import com.shangshangqian.spring.SpringLifeCycle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.stereotype.Component;
@@ -11,7 +11,7 @@ import javax.annotation.PreDestroy;
 /**
  * Function:用注解的方法
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 20/03/2018 18:46
  * @since JDK 1.8
  */

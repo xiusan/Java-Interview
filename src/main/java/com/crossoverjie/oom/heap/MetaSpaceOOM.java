@@ -1,4 +1,4 @@
-package com.crossoverjie.oom.heap;
+package com.shangshangqian.oom.heap;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;
@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
 /**
  * Function:方法区内存溢出 1.8之后修改为元数据区
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 29/12/2017 21:34
  * @since JDK 1.8
  */

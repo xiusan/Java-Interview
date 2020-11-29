@@ -1,4 +1,4 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -24,7 +24,7 @@ import java.util.Set;
  * 2*2+0*0=2
  *
  * 这里结果 1*1+1*1=2 和 2*2+0*0=2 重复，所以不是快乐数字
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 04/01/2018 14:12
  * @since JDK 1.8
  */

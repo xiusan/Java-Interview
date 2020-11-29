@@ -1,4 +1,4 @@
-package com.crossoverjie;
+package com.shangshangqian;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * @author crossoverJie
+ * @author shangshangqian
  *
  */
 @SpringBootApplication

@@ -1,4 +1,4 @@
-package com.crossoverjie.proxy.cglib;
+package com.shangshangqian.proxy.cglib;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 24/12/2017 19:01
  * @since JDK 1.8
  */

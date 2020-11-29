@@ -1,11 +1,11 @@
-package com.crossoverjie.concurrent;
+package com.shangshangqian.concurrent;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 09/03/2018 00:34
  * @since JDK 1.8
  */

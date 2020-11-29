@@ -1,4 +1,4 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 import java.util.Stack;
 
@@ -11,7 +11,7 @@ import java.util.Stack;
  *
  * 这样出队列只需要移除第二个栈的头元素即可。
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 09/02/2018 23:51
  * @since JDK 1.8
  */

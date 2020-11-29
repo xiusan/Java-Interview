@@ -1,4 +1,4 @@
-package com.crossoverjie.red;
+package com.shangshangqian.red;
 
 import java.util.LinkedList;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * Function: 模拟微信红包生成，以分为单位
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 03/01/2018 16:52
  * @since JDK 1.8
  */

@@ -1,4 +1,4 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -6,7 +6,7 @@ import org.slf4j.LoggerFactory;
 /**
  * Function: 在二维数组中判断是否存在查找的数字
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 09/02/2018 22:19
  * @since JDK 1.8
  */

@@ -1,4 +1,4 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * Function:{1,3,5,7} target=8 返回{2,3}
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 04/01/2018 09:53
  * @since JDK 1.8
  */

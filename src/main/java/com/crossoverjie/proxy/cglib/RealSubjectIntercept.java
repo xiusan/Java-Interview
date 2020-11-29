@@ -1,4 +1,4 @@
-package com.crossoverjie.proxy.cglib;
+package com.shangshangqian.proxy.cglib;
 
 import net.sf.cglib.proxy.MethodInterceptor;
 import net.sf.cglib.proxy.MethodProxy;
@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 24/12/2017 19:02
  * @since JDK 1.8
  */

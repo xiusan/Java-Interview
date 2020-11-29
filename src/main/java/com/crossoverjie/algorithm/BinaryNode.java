@@ -1,11 +1,11 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 import java.util.LinkedList;
 
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 04/01/2018 18:26
  * @since JDK 1.8
  */

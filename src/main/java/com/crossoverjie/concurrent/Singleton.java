@@ -1,9 +1,9 @@
-package com.crossoverjie.concurrent;
+package com.shangshangqian.concurrent;
 
 /**
  * Function:单例模式-双重检查锁
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 09/03/2018 01:14
  * @since JDK 1.8
  */

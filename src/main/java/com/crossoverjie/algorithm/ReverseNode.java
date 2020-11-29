@@ -1,11 +1,11 @@
-package com.crossoverjie.algorithm;
+package com.shangshangqian.algorithm;
 
 import java.util.Stack;
 
 /**
  * Function: 三种方式反向打印单向链表
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 10/02/2018 16:14
  * @since JDK 1.8
  */

@@ -1,9 +1,9 @@
-package com.crossoverjie.design.pattern.factorymethod;
+package com.shangshangqian.design.pattern.factorymethod;
 
 /**
  * Function:工厂方法模式
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 19/03/2018 14:29
  * @since JDK 1.8
  */

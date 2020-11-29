@@ -1,6 +1,6 @@
-package com.crossoverjie.spring.service;
+package com.shangshangqian.spring.service;
 
-import com.crossoverjie.spring.SpringLifeCycle;
+import com.shangshangqian.spring.SpringLifeCycle;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.DisposableBean;
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 /**
  * Function:实现 InitializingBean DisposableBean 接口
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 20/03/2018 18:38
  * @since JDK 1.8
  */

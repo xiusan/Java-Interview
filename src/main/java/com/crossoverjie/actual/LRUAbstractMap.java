@@ -1,4 +1,4 @@
-package com.crossoverjie.actual;
+package com.shangshangqian.actual;
 
 import com.google.common.util.concurrent.ThreadFactoryBuilder;
 import org.slf4j.Logger;
@@ -20,7 +20,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  *
  * 但是像 HashMap 里的扩容，链表在超过阈值之类的没有考虑进来。
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 02/02/2018 20:47
  * @since JDK 1.8
  */

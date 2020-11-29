@@ -1,6 +1,6 @@
-package com.crossoverjie.spring;
+package com.shangshangqian.spring;
 
-import com.crossoverjie.concurrent.Singleton;
+import com.shangshangqian.concurrent.Singleton;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
@@ -8,7 +8,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * Function:使用 initMethod 和 destroyMethod 的方式
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 19/03/2018 22:37
  * @since JDK 1.8
  */

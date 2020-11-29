@@ -1,4 +1,4 @@
-package com.crossoverjie.actual;
+package com.shangshangqian.actual;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -12,7 +12,7 @@ import java.util.concurrent.*;
 /**
  * Function:三种方式线程通信
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 04/01/2018 22:57
  * @since JDK 1.8
  */

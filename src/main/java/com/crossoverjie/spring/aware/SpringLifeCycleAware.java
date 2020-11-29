@@ -1,6 +1,6 @@
-package com.crossoverjie.spring.aware;
+package com.shangshangqian.spring.aware;
 
-import com.crossoverjie.Application;
+import com.shangshangqian.Application;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.BeansException;
@@ -11,7 +11,7 @@ import org.springframework.stereotype.Component;
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 20/03/2018 21:54
  * @since JDK 1.8
  */

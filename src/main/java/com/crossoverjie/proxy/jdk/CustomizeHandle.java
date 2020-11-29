@@ -1,4 +1,4 @@
-package com.crossoverjie.proxy.jdk;
+package com.shangshangqian.proxy.jdk;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 23/12/2017 22:27
  * @since JDK 1.8
  */

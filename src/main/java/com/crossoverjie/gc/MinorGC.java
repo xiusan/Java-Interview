@@ -1,9 +1,9 @@
-package com.crossoverjie.gc;
+package com.shangshangqian.gc;
 
 /**
  * Function: Eden区不够分配时，发生minorGC
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 17/01/2018 22:57
  * @since JDK 1.8
  */

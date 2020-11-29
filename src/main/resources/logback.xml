@@ -65,7 +65,7 @@
     </appender>
 
     
-    <logger name="com.crossoverjie">
+    <logger name="com.shangshangqian">
         <level value="INFO" />
         <appender-ref ref="LOGFILE-INFO"/>
     </logger>

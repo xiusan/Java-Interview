@@ -1,13 +1,13 @@
-package com.crossoverjie.proxy.jdk.impl;
+package com.shangshangqian.proxy.jdk.impl;
 
-import com.crossoverjie.proxy.jdk.ISubject;
+import com.shangshangqian.proxy.jdk.ISubject;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
  * Function:
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 23/12/2017 22:43
  * @since JDK 1.8
  */

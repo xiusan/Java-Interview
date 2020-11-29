@@ -1,10 +1,10 @@
-package com.crossoverjie.actual;
+package com.shangshangqian.actual;
 
 /**
  * Function:两个线程交替执行打印 1~100
  * 等待通知机制版
  *
- * @author crossoverJie
+ * @author shangshangqian
  *         Date: 07/03/2018 13:19
  * @since JDK 1.8
  */
